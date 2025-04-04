@@ -15,9 +15,9 @@ Además implementa conceptos fundamentales de la teoría del portafolio, utiliza
 
 Los cálculos incluyen:  
 
-**Portafolio de mínima varianza**
-**Coeficiente de Sharpe**
-**Portafolio de tangencia**
+- **Portafolio de mínima varianza**.
+- **Coeficiente de Sharpe**.
+- **Portafolio de tangencia**.
 # Códigos de Aplicación a las Matemáticas Financieras  
 
 
